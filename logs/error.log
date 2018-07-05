@@ -1,0 +1,10 @@
+2018/06/15 15:30:30 [notice] 5986#0: signal process started
+2018/06/15 15:48:07 [warn] 2498#0: "ssl_stapling" ignored, issuer certificate not found for certificate "/usr/local/nginx/conf/ssl/www.weareone.online.crt"
+2018/06/15 15:48:07 [warn] 2499#0: "ssl_stapling" ignored, issuer certificate not found for certificate "/usr/local/nginx/conf/ssl/www.weareone.online.crt"
+2018/06/15 15:48:07 [notice] 2499#0: signal process started
+2018/06/15 15:48:54 [warn] 2525#0: "ssl_stapling" ignored, issuer certificate not found for certificate "/usr/local/nginx/conf/ssl/www.weareone.online.crt"
+2018/06/15 16:06:01 [notice] 2909#0: signal process started
+2018/06/15 16:15:58 [notice] 3127#0: signal process started
+2018/06/15 16:45:00 [notice] 30574#0: signal process started
+2018/06/19 14:32:21 [notice] 6364#0: signal process started
+2018/06/19 14:36:35 [notice] 6397#0: signal process started
